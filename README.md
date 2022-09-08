@@ -77,17 +77,17 @@ const Rahul yadav = {
 📈 my github stats  
 <!---
 <p>
-<snap> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuryaPratap2542&show_icons=true&theme=gotham&layout=compact&hide=jupyter%20notebook" alt="Surya Pratap" />
-<snap> <img align="right" src="https://github-readme-stats.vercel.app/api?username=SuryaPratap2542&show_icons=true&theme=gotham" height="165px" alt="Surya Pratap" />
+<snap> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulyadav9651&show_icons=true&theme=gotham&layout=compact&hide=jupyter%20notebook" alt="Surya Pratap" />
+<snap> <img align="right" src="https://github-readme-stats.vercel.app/api?username=Rahulyadav9651&show_icons=true&theme=gotham" height="165px" alt="Surya Pratap" />
  </p>
 --->
 <p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=SuryaPratap2542&show_icons=true&theme=gotham" />
-	 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SuryaPratap2542&theme=gotham" />
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Rahulyadav9651&show_icons=true&theme=gotham" />
+	 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rahulyadav9651&theme=gotham" />
 	<br/>
 	
-<img width="25.8%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuryaPratap2542&theme=gotham&hide=jupyter%20notebook" />
-<img width="69.8%" src="https://activity-graph.herokuapp.com/graph?username=SuryaPratap2542&theme=gotham" />	
+<img width="25.8%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulyadav9651&theme=gotham&hide=jupyter%20notebook" />
+<img width="69.8%" src="https://activity-graph.herokuapp.com/graph?username=Rahulyadav9651&theme=gotham" />	
 </p>
 <p>	Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
 
