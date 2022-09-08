@@ -2,34 +2,30 @@
 this is my Git hub Account
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
-<a href="https://twitter.com/suryapratp788">
-  <img align="left" alt="Surya Pratap | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/rahul-yadav-228897237//">
+  <img align="left" alt="Rahul yadav LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://www.linkedin.com/in/surya-pratap-singh-98a37b21b/">
-  <img align="left" alt="Surya_pratap LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.instagram.com/rhyadav6951/">
+  <img align="left" alt="Rahul yadav Insta" width="22px" src="https://raw.githubusercontent.com/github/explore/06c46459e7947c8a25f72798af696d66e202ac39/topics/instagram/instagram.png" />
 </a>
-<a href="https://www.instagram.com/suryapratap6473/">
-  <img align="left" alt="Surya_pratap Insta" width="22px" src="https://raw.githubusercontent.com/github/explore/06c46459e7947c8a25f72798af696d66e202ac39/topics/instagram/instagram.png" />
-</a>
-<a href="https://www.youtube.com/c/DreamPoint">
-  <img align="left" alt="Surya_pratap Youtube" width="22px" src="https://raw.githubusercontent.com/github/explore/d744245de144b89f3e3462949e08bfc91eda7fcf/topics/youtube/youtube.png" />
-</a>
+
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=warriorwizard.warriorwizard)
 
 <br />
 
-hi, i'm [Surya Pratap Singh](https://www.youtube.com/c/DreamPoint), a passionate self-taught Web developer and a YouTuber from India. my passion for software lies with dreaming up ideas and making them come true with elegant projects. i take great care in the experience, architecture, and code quality of the things I build.
+hi, i'm [Rahul yadav] a passionate self-taught Web developer  from India. my passion for software lies with dreaming up ideas and making them come true with elegant projects. i take great care in the experience, architecture, and code quality of the things I build.
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
 
 ```
-const Surya = {
+const Rahul yadav = {
     pronouns: "He" | "Him",
-    code: [ "Python", "JAVA", "HTML", "CSS", "JAVASCRIPT"],
+    code: [ "Python", "C++", "HTML", "CSS", "JAVASCRIPT"],
     askMeAbout: ["Web Development", "Tech", "OOPS"],
     technologies: {
     	machine learing:{
@@ -47,9 +43,9 @@ const Surya = {
     },
     toolsUsing: ["Photoshop", "Bootstrap Studio", ],
     workplace: {
-                college: 'NIET',
+                college: 'GL Bajaj Institute of Technology & Management',
                 course: 'B-Tech',
-		specialization : 'CSE'
+		specialization : 'CSE AIML'
     },
     architecture: ["Progressive web applications", "Single page applications"],
     currentProject: "I am developing an E-commerce Webstie",
